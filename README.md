@@ -4,4 +4,4 @@
 
 POPSIM is a FREE Android (6.0+) app that allows you to better manage and plan your rounds of PUBG Mobile© 1v1 or 4v4 popularity battles as well as homebuilding competitions.
 
-**Privacy:** POPSIM respects your privacy, it collects no personal information, requires no permissions and uses no network connection. Your usage data never leaves your device.
+**Privacy:** POPSIM respects your privacy, it collects no personal information, requires no permissions, and uses no network connection. Your usage data never leaves your device.
