@@ -6,7 +6,7 @@ POPSIM is a FREE Android (7.0+) app that allows you to better manage and plan yo
 
 **Privacy:** POPSIM respects your privacy; it collects no personal information, requires no permissions, and uses no network connection. Your usage data never leaves your device.
 
-[**Download:**](https://github.com/sugamogaming/popsim/blob/main/PopSim.apk)
+[**Download**](PopSim.apk)
 
 
 <img width="270" height="600" alt="PopSim" src="https://github.com/user-attachments/assets/3bc76f49-9e1d-4d71-88cb-63239369c48e" />
